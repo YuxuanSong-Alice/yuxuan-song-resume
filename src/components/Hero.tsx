@@ -42,20 +42,6 @@ const Hero: React.FC = () => {
           value={data.contact.dob}
         />
       </div>
-
-      <div className="mt-6 text-center sm:text-left">
-        <p className="text-xs font-semibold text-gray-500 mb-2 uppercase tracking-wide">
-          {language === 'zh' ? '网页版简历' : 'Interactive Portfolio'}
-        </p>
-        <a
-          href={data.contact.portfolioUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-sm text-blue-600 hover:text-blue-800 font-medium break-all underline-offset-2 hover:underline"
-        >
-          {data.contact.portfolioUrl}
-        </a>
-      </div>
     </section>
   );
 };

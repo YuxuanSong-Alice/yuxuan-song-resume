@@ -10,8 +10,7 @@ export const resumeData = {
       email: "yuxuansong0930@163.com",
       phone: "13488976132",
       wechat: "SyuxuanS0930",
-      dob: "1999.09.30",
-      portfolioUrl: "https://YuxuanSong-Alice.github.io/yuxuan-song-resume/"
+      dob: "1999.09.30"
     },
     education: [
       {
@@ -88,8 +87,7 @@ export const resumeData = {
       email: "yuxuansong0930@163.com",
       phone: "13488976132",
       wechat: "SyuxuanS0930",
-      dob: "1999.09.30",
-      portfolioUrl: "https://YuxuanSong-Alice.github.io/yuxuan-song-resume/"
+      dob: "1999.09.30"
     },
     education: [
       {
