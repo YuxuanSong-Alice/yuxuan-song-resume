@@ -31,9 +31,9 @@ export const resumeData = {
         company: "拼多多",
         location: "上海",
         position: "数字化增长 | 策略产品运营 | 用户全生命周期运营",
-        period: "04/2023-04/2026（3 年）",
+        period: "04/2023-04/2026（3年）",
         description:
-          "3 年全球化用户增长、策略产品运营、数据驱动闭环经验，擅长用户生命周期管理、大模型策略优化、全域增长落地。"
+          "3年全球化用户增长、策略产品运营、数据驱动闭环经验，擅长用户生命周期管理、大模型策略优化、全域增长落地。"
       }
     ],
     projects: [
@@ -66,7 +66,7 @@ export const resumeData = {
           "整体服务求助率从 18.7% 降至 12.5%（季度环比），平台用户满意度提升 12%。"
       },
       {
-        title: "内部运营流程数字化与 AI 效率提升",
+        title: "内部运营流程数字化与AI效率提升",
         description:
           "牵头风险订单初筛核实流程线上化改造，落地大模型应用实现非结构化数据自动解析、风险智能分级与工单自动分配，推动运营流程数字化升级。",
         results:
@@ -110,7 +110,7 @@ export const resumeData = {
         position: ENGLISH_JOB_TITLE,
         period: "04/2023-04/2026（3yrs）",
         description:
-          "3+ years in global expansion and product operations. Specialized in data-driven growth, LLM strategy optimization, and managing the entire user lifecycle."
+          "Strategy Product Lead with 3 years of experience in global expansion and product operations. Specialized in data-driven growth, LLM strategy optimization, and managing the entire user lifecycle."
       }
     ],
     projects: [
@@ -138,7 +138,7 @@ export const resumeData = {
       {
         title: "Merchant Sentiment Optimization & Experience Enhancement",
         description:
-          "End-to-end merchant sentiment and experience optimization. Mapped core emotional touchpoints across the after-sales lifecycle and built an intervention system featuring pre-settlement mediation and rapid dispute response. Spearheaded a task force to optimize the Top 5 high-conflict scenarios, driving significant quarterly improvements: Pre-judgment Communication Gaps improved by 10%; Post-judgment Fulfillment Disputes reduced by 4%; Service Attitude Penalty Controversies reduced by 19%.",
+          "End-to-End Merchant Sentiment & Experience Optimization. Mapped core emotional touchpoints across the after-sales lifecycle and built an intervention system featuring pre-settlement mediation and rapid dispute response. Spearheaded a task force to optimize the Top 5 high-conflict scenarios, driving significant quarterly improvements: Pre-judgment Communication Gaps: Improved by 10%; Post-judgment Fulfillment Disputes: Reduced by 4%; Service Attitude Penalty Controversies: Reduced by 19%.",
         results:
           "Reduced overall after-sales help-seeking rates from 18.7% to 12.5% and boosted platform merchant satisfaction by 12 percentage points."
       },
