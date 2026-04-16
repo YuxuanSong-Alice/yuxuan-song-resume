@@ -147,7 +147,7 @@ export const resumeData = {
         description:
           "Led the digitalization of manual review processes by integrating LLM capabilities for unstructured data parsing, automated risk grading, and intelligent ticket routing.",
         results:
-          "Results: Increased team review efficiency from 20 to 35 orders/day, reduced manual repetition by 40%, and shortened the total operational cycle by 30%."
+          "Results: Increased team review efficiency from 20 to 45 orders/day, reduced manual repetition by 40%, and shortened the total operational cycle by 30%."
       }
     ],
     skills: {
