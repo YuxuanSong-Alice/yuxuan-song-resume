@@ -6,7 +6,8 @@ export const resumeData = {
       email: "yuxuansong0930@163.com",
       phone: "13488976132",
       wechat: "SyuxuanS0930",
-      dob: "1999.09.30"
+      dob: "1999.09.30",
+      portfolioUrl: "https://YuxuanSong-Alice.github.io/yuxuan-song-resume/"
     },
     education: [
       {
@@ -27,9 +28,9 @@ export const resumeData = {
         company: "拼多多",
         location: "上海",
         position: "数字化增长 | 策略产品运营 | 用户全生命周期运营",
-        period: "04/2023-04/2026（3年）",
+        period: "04/2023-04/2026（3 年）",
         description:
-          "3年全球化用户增长、策略产品运营、数据驱动闭环经验，擅长用户生命周期管理、大模型策略优化、全域增长落地。"
+          "3 年全球化用户增长、策略产品运营、数据驱动闭环经验，擅长用户生命周期管理、大模型策略优化、全域增长落地。"
       }
     ],
     projects: [
@@ -50,7 +51,7 @@ export const resumeData = {
       {
         title: "用户合规服务柔性机制设计与落地",
         description:
-          "作为用户关系体验优化项目负责人，搭建分级分类、场景化的首次合规提醒与柔性处理体系，依据风险等级制定差异化处置规则，完成全链路校验逻辑梳理与全流程交互方案输出。协同产品、研发、算法团队完成项目开发与灰度上线，建立「规则宣导—执行落地—效果反馈」的运营机制。",
+          "作为用户关系体验优化项目负责人，搭建分级分类、场景化的首次合规提醒与柔性处理体系，依据风险等级制定差异化处置规则，完成全链路校验逻辑梳理与全流程交互方案输出。协同产品、研发、算法团队完成项目开发与灰度上线，建立“规则宣导—执行落地—效果反馈”的运营机制。",
         results:
           "日均覆盖 2.5 万+ 业务订单，用户合规相关不满反馈占比下降 14%，在强化规则认知的同时显著降低用户抵触情绪，二次风险行为发生率下降 8%。"
       },
@@ -78,12 +79,14 @@ export const resumeData = {
   },
   en: {
     name: "Yuxuan Song",
-    title: "Global User Growth | Strategy Product Manager | Strategy & Product Operation",
+    title:
+      "Global Digital Growth Strategist | Product Operations Manager | CRM Strategist",
     contact: {
       email: "yuxuansong0930@163.com",
       phone: "13488976132",
       wechat: "SyuxuanS0930",
-      dob: "1999.09.30"
+      dob: "1999.09.30",
+      portfolioUrl: "https://YuxuanSong-Alice.github.io/yuxuan-song-resume/"
     },
     education: [
       {
@@ -103,10 +106,11 @@ export const resumeData = {
       {
         company: "Pinduoduo",
         location: "Shanghai",
-        position: "Global User Growth | Strategy Product Manager | Strategy & Product Operation",
+        position:
+          "Global Digital Growth Strategist | Product Operations Manager | CRM Strategist",
         period: "04/2023-04/2026（3yrs）",
         description:
-          "3+ years of global user growth, strategy product operations, and data-driven closed-loop execution. Strong in user lifecycle management, LLM strategy optimization, and full-funnel growth."
+          "Strategy Product Lead with 3 years of experience in global expansion and product operations. Specialized in data-driven growth, LLM strategy optimization, and managing the entire user lifecycle."
       }
     ],
     projects: [
@@ -134,7 +138,7 @@ export const resumeData = {
       {
         title: "Merchant Sentiment Optimization & Experience Enhancement",
         description:
-          "Mapped core emotional touchpoints across the after-sales lifecycle and built an intervention system featuring pre-settlement mediation and rapid dispute response. Spearheaded a task force to optimize the Top 5 high-conflict scenarios, driving significant quarterly improvements: Pre-judgment Communication Gaps improved by 10%; Post-judgment Fulfillment Disputes reduced by 4%; Service Attitude Penalty Controversies reduced by 19%.",
+          "End-to-end merchant sentiment and experience optimization. Mapped core emotional touchpoints across the after-sales lifecycle and built an intervention system featuring pre-settlement mediation and rapid dispute response. Spearheaded a task force to optimize the Top 5 high-conflict scenarios, driving significant quarterly improvements: Pre-judgment Communication Gaps improved by 10%; Post-judgment Fulfillment Disputes reduced by 4%; Service Attitude Penalty Controversies reduced by 19%.",
         results:
           "Reduced overall after-sales help-seeking rates from 18.7% to 12.5% and boosted platform merchant satisfaction by 12 percentage points."
       },
