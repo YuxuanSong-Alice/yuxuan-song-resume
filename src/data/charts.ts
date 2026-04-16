@@ -16,14 +16,14 @@ export const marketPerformanceData = [
   { market: '西班牙', gmvGrowth: 110, downloadGrowth: 42 },
 ];
 
-// 模型优化效果
+// 模型优化效果（与简历「风险识别」表述一致）
 export const modelOptimizationData = [
-  { metric: '辱骂识别率', before: 17, after: 35 },
+  { metric: '风险识别准确率 (%)', before: 17, after: 35 },
   { metric: '误判率降低', before: 100, after: 60 },
   { metric: '负面反馈减少', before: 100, after: 40 },
 ];
 
-// 商家满意度提升
+// 用户满意度 / 服务求助率（与简历「服务求助率」一致）
 export const merchantSatisfactionData = [
   { phase: '优化前', seekHelpRate: 18.7, satisfaction: 75 },
   { phase: '优化后', seekHelpRate: 12.5, satisfaction: 87 },
