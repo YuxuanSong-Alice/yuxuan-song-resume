@@ -1,8 +1,14 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useLanguage } from '../context/LanguageContext';
+import { resumeData } from '../data/resume';
 
 const Header: React.FC = () => {
   const { language, toggleLanguage } = useLanguage();
+
+  useEffect(() => {
+    const data = resumeData[language];
+    document.title = `${data.name} | ${data.title}`;
+  }, [language]);
 
   return (
     <header className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-blue-100 shadow-sm">

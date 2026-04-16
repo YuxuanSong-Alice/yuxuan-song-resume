@@ -1,3 +1,7 @@
+/** English role line — use everywhere the job title appears in EN */
+export const ENGLISH_JOB_TITLE =
+  "Global Digital Growth Strategist | Product Operations Manager | CRM Strategist";
+
 export const resumeData = {
   zh: {
     name: "宋雨萱",
@@ -79,8 +83,7 @@ export const resumeData = {
   },
   en: {
     name: "Yuxuan Song",
-    title:
-      "Global Digital Growth Strategist | Product Operations Manager | CRM Strategist",
+    title: ENGLISH_JOB_TITLE,
     contact: {
       email: "yuxuansong0930@163.com",
       phone: "13488976132",
@@ -106,11 +109,10 @@ export const resumeData = {
       {
         company: "Pinduoduo",
         location: "Shanghai",
-        position:
-          "Global Digital Growth Strategist | Product Operations Manager | CRM Strategist",
+        position: ENGLISH_JOB_TITLE,
         period: "04/2023-04/2026（3yrs）",
         description:
-          "Strategy Product Lead with 3 years of experience in global expansion and product operations. Specialized in data-driven growth, LLM strategy optimization, and managing the entire user lifecycle."
+          "3+ years in global expansion and product operations. Specialized in data-driven growth, LLM strategy optimization, and managing the entire user lifecycle."
       }
     ],
     projects: [
