@@ -1,6 +1,6 @@
-/** English role line — use everywhere the job title appears in EN */
+/** English role line — matches宋雨萱简历-外企.docx spacing */
 export const ENGLISH_JOB_TITLE =
-  "Global Digital Growth Strategist | Product Operations Manager | CRM Strategist";
+  "Global Digital Growth Strategist| Product Operations Manager | CRM Strategist";
 
 export const resumeData = {
   zh: {
@@ -117,37 +117,37 @@ export const resumeData = {
       {
         title: "Global User Growth & Performance Marketing",
         description:
-          "Managed full-funnel advertising across Google, Facebook, and TikTok for markets including the US, Switzerland, Spain, Czech Republic, and Slovakia. Optimized budget allocation, smart bidding, and localized creative assets based on regional user behavior insights.",
+          "Managed full-funnel advertising across Google, Facebook, and TikTok for markets including the US, Switzerland, Spain, Czech Republic, and Slovakia.\n\nOptimized budget allocation, smart bidding, and localized creative assets based on regional user behavior insights.",
         results:
-          "Achieved 200%+ GMV growth and a 70%+ increase in app downloads in the Czech and Slovak markets, successfully establishing brand penetration in new territories."
+          "Key Results: Achieved 200%+ GMV growth and a 70%+ increase in app downloads in the Czech and Slovak markets, successfully establishing brand penetration in new territories."
       },
       {
         title: "LLM-Driven Abuse Detection System Optimization (Strategic Initiative)",
         description:
-          "Identified pain points regarding low model accuracy and high false-positive rates that led to merchant escalations. Partnered with Algorithm teams to develop an industry-leading annotation standard and a structured Prompt Engineering framework (Context, Role, Definition, and Output). Led the annotation of 10,000+ samples and established a repeatable model iteration methodology.",
+          "Identified pain points regarding low model accuracy and high false-positive rates that led to merchant escalations.\n\nPartnered with Algorithm teams to develop an industry-leading annotation standard and a structured Prompt Engineering framework (Context, Role, Definition, and Output).\n\nLed the annotation of 10,000+ samples and established a repeatable model iteration methodology.",
         results:
-          "Increased abuse detection rates from 17% to 35%, reduced false positives by 40%, and decreased negative merchant feedback by over 60%."
+          "Results: Increased abuse detection rates from 17% to 35%, reduced false positives by 40%, and decreased negative merchant feedback by over 60%."
       },
       {
         title: 'Merchant Service Compliance & "First-Time Violation Waiver" Mechanism',
         description:
-          "Headed a pilot program to alleviate merchant friction by designing a tiered \"First-Time Violation Exemption\" system based on risk levels and business scenarios. Coordinated with Product, R&D, and Legal teams to execute a phased rollout and established a \"Policy-Execution-Feedback\" operational loop.",
+          "Headed a pilot program to alleviate merchant friction by designing a tiered \"First-Time Violation Exemption\" system based on risk levels and business scenarios.\n\nCoordinated with Product, R&D, and Legal teams to execute a phased rollout and established a \"Policy-Execution-Feedback\" operational loop.",
         results:
-          "Covered 25k+ daily orders, reducing penalty-related dissatisfaction by 14% and secondary violation rates by 8% while reinforcing policy awareness."
+          "Results: Covered 25k+ daily orders, reducing penalty-related dissatisfaction by 14% and secondary violation rates by 8% while reinforcing policy awareness."
       },
       {
         title: "Merchant Sentiment Optimization & Experience Enhancement",
         description:
-          "End-to-End Merchant Sentiment & Experience Optimization. Mapped core emotional touchpoints across the after-sales lifecycle and built an intervention system featuring pre-settlement mediation and rapid dispute response. Spearheaded a task force to optimize the Top 5 high-conflict scenarios, driving significant quarterly improvements: Pre-judgment Communication Gaps: Improved by 10%; Post-judgment Fulfillment Disputes: Reduced by 4%; Service Attitude Penalty Controversies: Reduced by 19%.",
+          "End-to-End Merchant Sentiment & Experience Optimization\n\nMapped core emotional touchpoints across the after-sales lifecycle and built an intervention system featuring pre-settlement mediation and rapid dispute response.\n\nSpearheaded a task force to optimize the Top 5 high-conflict scenarios, driving significant quarterly improvements: Pre-judgment Communication Gaps: Improved by 10%; Post-judgment Fulfillment Disputes: Reduced by 4%; Service Attitude Penalty Controversies: Reduced by 19%.",
         results:
-          "Reduced overall after-sales help-seeking rates from 18.7% to 12.5% and boosted platform merchant satisfaction by 12 percentage points."
+          "Results: Reduced overall after-sales help-seeking rates from 18.7% to 12.5% and boosted platform merchant satisfaction by 12 percentage points."
       },
       {
         title: "Operational Digitalization & AI Efficiency Enhancement",
         description:
           "Led the digitalization of manual review processes by integrating LLM capabilities for unstructured data parsing, automated risk grading, and intelligent ticket routing.",
         results:
-          "Increased team review efficiency from 20 to 35 orders/day, reduced manual repetition by 40%, and shortened the total operational cycle by 30%."
+          "Results: Increased team review efficiency from 20 to 35 orders/day, reduced manual repetition by 40%, and shortened the total operational cycle by 30%."
       }
     ],
     skills: {

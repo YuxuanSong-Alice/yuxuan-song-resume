@@ -9,7 +9,7 @@ const Education: React.FC = () => {
   return (
     <section className="py-16 border-b border-blue-100">
       <h2 className="section-title">
-        {language === 'zh' ? '教育背景' : 'Education'}
+        {language === 'zh' ? '教育背景' : 'Education Background'}
       </h2>
 
       <div className="space-y-6">
