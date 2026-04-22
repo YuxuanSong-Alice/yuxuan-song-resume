@@ -15,13 +15,13 @@ export const resumeData = {
     education: [
       {
         school: "哥伦比亚大学",
-        degree: "企业风险管理 硕士",
+        degree: "企业风险管理(STEM 专业) 硕士",
         period: "09/2021-02/2023",
         gpa: "3.83/4.0"
       },
       {
         school: "罗格斯大学",
-        degree: "供应链管理 本科",
+        degree: "供应链管理(STEM 专业) 本科",
         period: "09/2017-06/2021",
         gpa: "3.55/4.0（Cum Laude 优等毕业生荣誉）"
       }
@@ -92,13 +92,13 @@ export const resumeData = {
     education: [
       {
         school: "Columbia University",
-        degree: "M.S. in Enterprise Risk Management",
+        degree: "M.S. in Enterprise Risk Management (STEM Designated)",
         period: "09/2021-02/2023",
         gpa: "3.83/4.0"
       },
       {
         school: "Rutgers University",
-        degree: "B.S. in Supply Chain Management",
+        degree: "B.S. in Supply Chain Management (STEM Designated)",
         period: "09/2017-06/2021",
         gpa: "3.55/4.0（Cum Laude）"
       }
